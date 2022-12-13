@@ -1,0 +1,14 @@
+p{
+  color: #b223236b;
+}
+
+body{
+  background: url("/static/images/DESKTOPP.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ div{
+   style="background-color: transparent;
+   font-weight: bold;
+   color: black;"
+ }
